@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ajax
+Disallow: /user
+Disallow: /auth
+
+User-agent: Yandex
+Disallow: /ajax
+Disallow: /user
+Disallow: /auth
+
+Host: https://yoshkarola.vetfree.ru/
+Sitemap: https://yoshkarola.vetfree.ru/sitemap.xml
